@@ -1,1 +1,15 @@
 // Your custom variables
+$primary-color:        #069 !default;
+
+
+//Colors
+$gradients: () !default;
+$gradients: map-merge(
+                (
+                        "ifir": (
+                                "start": #64d6ff,
+                                "end": #069
+                        ),
+                ),
+                $gradients
+);

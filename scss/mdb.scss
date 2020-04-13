@@ -17,6 +17,7 @@
 @import "core/masks";
 @import "core/waves";
 
+
 // FREE
 @import "free/animations-basic";
 @import "free/modules/animations-extended/module";
@@ -39,12 +40,13 @@
 @import "free/loader";
 @import "free/treeview";
 // Free addons
-// @import "addons/datatables";
-// @import "addons/datatables-select";
-// @import "addons/directives";
-// @import "addons/hierarchical-display";
-// @import "addons/flag";
-// @import "addons/rating";
+@import "addons/datatables";
+@import "addons/datatables-select";
+@import "addons/directives";
+@import "addons/hierarchical-display";
+@import "addons/flag";
+@import "addons/rating";
 
 // Your custom styles
 @import "custom-styles";
+
